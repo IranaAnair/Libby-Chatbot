@@ -15,10 +15,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to the open-source community for providing libraries and tools that made Libby possible.
